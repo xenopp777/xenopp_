@@ -1,5 +1,8 @@
 #page.is-light {
   background-color: #DBD5C5;
+}
+
+#page {
   margin: 0;
   padding: 0;
 }
