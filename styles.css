@@ -26,6 +26,8 @@
 
 .column.side {
   width: 16%;
+  border-color: #b3ac9b;
+  border-width: 1px;
 }
 
 p {
