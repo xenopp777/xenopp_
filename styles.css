@@ -4,11 +4,16 @@
   padding: 0;
 }
 
-.column-main {
+.column {
+  float: left;
+  padding: 10px;
+}
+
+.column.main {
   width: 50%;
 }
 
-.column-side {
+.column.side {
   width: 25%;
 }
 
